@@ -1,18 +1,18 @@
 ## Hi Everyone 👋
-I Am A 19 Year Old Web Developer From Indonesia. I'm Currently Working On Some Open Source Projects.
+I Am A 19 Year Old Newbie Full Stack Web Developer From Indonesia.
 
 New To Github Hehe...
 
-## Information
+## About Me
 - 👋 Hi, I’m **Rifqi Galih Nur Ikhsan**
 - 👀 I’m interested in **Web Developer**
-- 🌱 I’m currently learning all about **Open Source**
+- 🌱 I’m currently learning **Full Stack Web Developer** And speak **English**
+- 😄 I'm natively speak **Indonesian**.
 - 🍎 Beginner mindset (**Open To Learning**)
-- 📫 How to reach me **rgsanstuy@gmail.com**
+- 📫 How to reach me at my instagram [@rgsannn](https://www.instagram.com/rgsannn)
 - ⚙️ I use daily <code>.php</code> <code>.js</code> <code>.html</code> <code>.css</code> <code>.scss</code>
+
 ## Socials
-
-
 <a href="https://github.com/rgsannn?tab=followers"><img src="https://img.shields.io/github/followers/rgsannn?style=social" /></a>
 <a href="http://twitter.com/rgsannn"><img src="https://img.shields.io/twitter/follow/rgsannn?style=social" /></a>
 

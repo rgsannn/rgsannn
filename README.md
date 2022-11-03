@@ -1,7 +1,5 @@
 ## Hi Everyone 👋
-I Am A 19 Year Old Newbie Full Stack Web Developer From Indonesia.
-
-New To Github Hehe...
+My name is Rifqi Galih Nur Ikhsan. I'm newbie full stack web developer from Indonesia. S1 Informatics Engineering Student, Indonesian Computer University. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
 ## About Me
 - 👋 Hi, I’m **Rifqi Galih Nur Ikhsan**

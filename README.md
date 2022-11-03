@@ -1,3 +1,8 @@
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![PHP](https://img.shields.io/badge/PHP-Intermediate-lightblue)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-Expert-purple)
+![Laravel](https://img.shields.io/badge/Laravel-Intermediate-red)
+
 ## Hi Everyone 👋
 My name is Rifqi Galih Nur Ikhsan. I'm newbie full stack web developer from Indonesia. S1 Informatics Engineering Student, Indonesian Computer University. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 

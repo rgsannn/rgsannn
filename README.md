@@ -30,7 +30,7 @@
   <a href="https://github.com/rgsannn/">
     <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=rgsannn&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF&theme=dracula" alt="rgsannn's github stats" />
   </a>
-  <a href="https://github.com/dandyraka/">
+  <a href="https://github.com/rgsannn/">
     <img align="center" width="645px" src="https://github-readme-streak-stats.herokuapp.com/?user=rgsannn&theme=default&fire=8B64FF&ring=8B64FF&currStreakLabel=8B64FF&sideNums=8B64FF&currStreakNum=d62976&theme=dracula" alt="rgsannn's streak stats"/>
   </a
 </p>

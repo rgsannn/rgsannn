@@ -5,8 +5,8 @@
   </a>
   <br>
   <br>
-      <a href="https://github.com/rgsannn?tab=followers"><img src="https://img.shields.io/github/followers/rgsannn?style=social" /></a>
-      <a href="http://twitter.com/rgsannn"><img src="https://img.shields.io/twitter/follow/rgsannn?style=social" /></a>
+  <a href="https://github.com/rgsannn?tab=followers"><img src="https://img.shields.io/github/followers/rgsannn?style=social" /></a>
+  <a href="http://twitter.com/rgsannn"><img src="https://img.shields.io/twitter/follow/rgsannn?style=social" /></a>
  
   <h2 align='center'> Hi Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
   <p align="center">
@@ -17,18 +17,18 @@
 
 <p align='center'>
   
- <img align="center" src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" />
- <img align="center" src="https://img.shields.io/badge/PHP-Intermediate-lightblue" />
- <img align="center" src="https://img.shields.io/badge/Bootstrap-Expert-purple" />
- <img align="center" src="https://img.shields.io/badge/Laravel-Intermediate-red" />
- <img align="center" src="https://img.shields.io/badge/TailwindCSS-Intermediate-blue" />
+  <img align="center" src="https://img.shields.io/badge/JavaScript-Intermediate-yellow" />
+  <img align="center" src="https://img.shields.io/badge/PHP-Intermediate-lightblue" />
+  <img align="center" src="https://img.shields.io/badge/Bootstrap-Expert-purple" />
+  <img align="center" src="https://img.shields.io/badge/Laravel-Intermediate-red" />
+  <img align="center" src="https://img.shields.io/badge/TailwindCSS-Intermediate-blue" />
   <br>
   <br>
   <a href="https://github.com/rgsannn/">
-     <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgsannn&layout=compact&title_color=8B64FF&theme=dracula" alt="rgsannn's github stats"/>
+    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rgsannn&layout=compact&title_color=8B64FF&theme=dracula" alt="rgsannn's github stats"/>
   </a>
   <a href="https://github.com/rgsannn/">
-     <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=rgsannn&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF&theme=dracula" alt="rgsannn's github stats" />
+    <img align="center" height="140px" src="https://github-readme-stats.vercel.app/api?username=rgsannn&hide=issues&count_private=true&show_icons=true&title_color=8B64FF&icon_color=8B64FF&theme=dracula" alt="rgsannn's github stats" />
   </a>
   
 </p>

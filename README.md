@@ -10,7 +10,7 @@
  
   <h2 align='center'> Hi Everyone! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
   <p align="center">
-    My name is Rifqi Galih Nur Ikhsan. I'm newbie full stack web developer from Indonesia. S1 Informatics Engineering Student, Indonesian Computer University. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+    My name is Rifqi Galih Nur Ikhsan. I'm full stack web developer from Indonesia. Currently pursuing a Bachelor's degree in Informatics Engineering at the Indonesian Computer University. I enjoy turning complex problems into simple, beautiful and intuitive designs.
   </p>
 
 </p>
